@@ -1,6 +1,8 @@
+[![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)](https://dimond79.io)
+
 <h1 align="center">Hi 👋, I'm Hira Shrestha</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Learner.</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimond79&label=Profile%20views&color=0e75b6&style=flat" alt="dimond79" /> </p>
 
