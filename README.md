@@ -1,5 +1,5 @@
 
-<img width="100%" height="50%" src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img width="100%" height="400px" src ="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm Hira Shrestha</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Learner.</h3>
 
