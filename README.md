@@ -30,6 +30,12 @@
     <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
+  </a>
+</p>
+
  </p>
  
 
