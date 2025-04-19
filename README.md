@@ -36,6 +36,12 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40"/>
   </a>
+   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/numpy/013243" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
 
  </p>
  
