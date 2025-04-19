@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Courses.**
 
-- 👨‍💻 All of my projects are available at [hiralalshrestha.com.np](hiralalshrestha.com.np)
+- 👨‍💻 All of my projects are available at [hiralalshrestha.com.np](https://hiralalshrestha.com.np)
 
 - 📫 How to reach me **hirashrestha9840@gmail.com**
 
