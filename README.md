@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimond79&label=Profile%20views&color=0e75b6&style=flat" alt="dimond79" /> </p>
 
-<p>I am trying to enhance my knowledge in Data Science and AI filed. Always Learning..📚</p>
+<p>I am trying to enhance my knowledge in Data Science, AI and Backend filed. Always Learning..📚</p>
 
 
 <h3>Something about me..</h3>
